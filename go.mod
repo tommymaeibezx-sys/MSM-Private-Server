@@ -1,2 +1,3 @@
-go mod init mi-app
-go mod tidy 
+module server
+
+go 1.22
